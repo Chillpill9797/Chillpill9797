@@ -1,6 +1,4 @@
-<picture>
- <img src="C:\Users\victus\Downloads\Black Minimal Motivation Quote LinkedIn Banner.png">
-</picture>  
+![MasterHead](https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966)
 <h1 align="center">Hey 👋, I'm Aditya Goswami</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
