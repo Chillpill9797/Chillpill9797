@@ -1,3 +1,6 @@
+<picture>
+ <img src="C:\Users\victus\Downloads\Black Minimal Motivation Quote LinkedIn Banner.png">
+</picture>  
 <h1 align="center">Hey 👋, I'm Aditya Goswami</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
