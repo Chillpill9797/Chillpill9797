@@ -5,7 +5,7 @@
 Feel free to checkout my [portfolio](https://github.com/adityagoswami21) website!
 - 🏢 Software Engineer (Stealth Mode) 
 - 🧰 I build with: `Python` `Django`, `HTML`, `MUI`
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡ I enjoy sketching, riding bikes, playing basketball, and lifting weights :)
 - 📫 Reach out to me: adityagoswami193@gmail.com
 
 ### 🔨 Languages and Tools:
