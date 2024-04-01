@@ -4,7 +4,7 @@
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://brianruizy.com/) 
 Feel free to checkout my [portfolio](https://github.com/adityagoswami21) website!
 - 🏢 Software Engineer (Stealth Mode) 
-- 🧰 I build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
+- 🧰 I build with: `Python` `Django`, `HTML`, `MUI`
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: adityagoswami193@gmail.com
 
