@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adityagoswami21)
 
 
-Feel free to checkout my [portfolio](https://github.com/adityagoswami21) website!
+<!---Feel free to checkout my [portfolio](https://github.com/adityagoswami21) website!--->
 - 🏢 Software Engineer (Stealth Mode) 
 - 🧰 I build with: `Python` `Django`, `HTML`, `TKINTER`
 - ⚡ I enjoy sketching, riding bikes, playing basketball, and lifting weights :)
