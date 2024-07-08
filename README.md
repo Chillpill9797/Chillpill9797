@@ -21,3 +21,5 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373554/django.svg" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height='42px'/> </a>
+
