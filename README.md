@@ -14,12 +14,13 @@
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img align="left" alt="Jupyter-Notebook" height ="42px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373554/django.svg" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img align="left" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.svgrepo.com/show/373554/django.svg" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height='42px'/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height='42px'/> </a>
 
