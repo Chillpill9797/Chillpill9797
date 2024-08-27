@@ -23,5 +23,5 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.svgrepo.com/show/373554/django.svg" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height='42px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height='42px'/> </a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img align="left" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" height='42px'/> </a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img align="left" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" alt="Flask" height='80px'/> </a>
 
