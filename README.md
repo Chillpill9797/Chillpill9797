@@ -4,7 +4,7 @@
 
 <!---Feel free to checkout my [portfolio](https://github.com/adityagoswami21) website!--->
 - 🏢 Software Engineer (Stealth Mode) 
-- 🧰 I build with: `Python` `Flask`, `HTML`, `TKINTER`
+- 🧰 I build with: `Python` `Flask`, `HTML`, `Sql`
 - ⚡ I enjoy sketching, riding bikes, playing basketball, and lifting weights :)
 - 📫 Reach out to me: adityagoswami193@gmail.com
 
